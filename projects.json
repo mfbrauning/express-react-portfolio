@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://seir-penguin-project-1-iota.vercel.app/",
+      "git": "https://github.com/mfbrauning/seir_penguin_project_1",
+      "image": "https://i.imgur.com/SnRiu6T.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://fb-seir-penguin-project2.herokuapp.com/",
+      "git": "https://github.com/mfbrauning/seir_penguin_project2",
+      "image": "https://i.imgur.com/XH44DdF.png"
+    }
+  ]
